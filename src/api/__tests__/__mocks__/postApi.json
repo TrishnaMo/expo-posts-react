@@ -1,0 +1,888 @@
+{
+    "hits": [
+      {
+        "created_at": "2021-10-30T15:32:52.000Z",
+        "title": "Entity Component Systems: Performance isn't the only benefit",
+        "url": "https://www.classdojo.com/2021/10/29/entity-component-systems-lead-to-great-code",
+        "author": "gcmeplz",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635607972,
+        "_tags": [
+          "story",
+          "author_gcmeplz",
+          "story_29049568"
+        ],
+        "objectID": "29049568",
+        "_highlightResult": {
+          "title": {
+            "value": "Entity Component Systems: Performance isn't the only benefit",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://www.classdojo.com/2021/10/29/entity-component-systems-lead-to-great-code",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "gcmeplz",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:31:48.000Z",
+        "title": "Hertz’s supercharged Tesla deal could haul us into the electric vehicle age",
+        "url": "https://www.theguardian.com/commentisfree/2021/oct/30/hertzs-supercharged-tesla-deal-could-haul-us-into-the-electric-vehicle-age",
+        "author": "samizdis",
+        "points": 4,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 1,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635607908,
+        "_tags": [
+          "story",
+          "author_samizdis",
+          "story_29049559"
+        ],
+        "objectID": "29049559",
+        "_highlightResult": {
+          "title": {
+            "value": "Hertz’s supercharged Tesla deal could haul us into the electric vehicle age",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://www.theguardian.com/commentisfree/2021/oct/30/hertzs-supercharged-tesla-deal-could-haul-us-into-the-electric-vehicle-age",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "samizdis",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:29:41.000Z",
+        "title": "Speeding up builds with fs/modified-since",
+        "url": "https://blog.michielborkent.nl/speeding-up-builds-fs-modified-since.html",
+        "author": "tosh",
+        "points": 2,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635607781,
+        "_tags": [
+          "story",
+          "author_tosh",
+          "story_29049539"
+        ],
+        "objectID": "29049539",
+        "_highlightResult": {
+          "title": {
+            "value": "Speeding up builds with fs/modified-since",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://blog.michielborkent.nl/speeding-up-builds-fs-modified-since.html",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "tosh",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:25:24.000Z",
+        "title": "Yugoslav New Age Punk",
+        "url": "https://www.calvertjournal.com/features/show/12495/yugoslav-new-wave-1980s-music-40-years-on",
+        "author": "medo-bear",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635607524,
+        "_tags": [
+          "story",
+          "author_medo-bear",
+          "story_29049500"
+        ],
+        "objectID": "29049500",
+        "_highlightResult": {
+          "title": {
+            "value": "Yugoslav New Age Punk",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://www.calvertjournal.com/features/show/12495/yugoslav-new-wave-1980s-music-40-years-on",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "medo-bear",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:21:23.000Z",
+        "title": "The beguiling promise of decentralised finance",
+        "url": "https://www.economist.com/leaders/2021/09/18/the-beguiling-promise-of-decentralised-finance",
+        "author": "tosh",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635607283,
+        "_tags": [
+          "story",
+          "author_tosh",
+          "story_29049477"
+        ],
+        "objectID": "29049477",
+        "_highlightResult": {
+          "title": {
+            "value": "The beguiling promise of decentralised finance",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://www.economist.com/leaders/2021/09/18/the-beguiling-promise-of-decentralised-finance",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "tosh",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:21:22.000Z",
+        "title": "Live from Interact: Engineering Leadership Screwups",
+        "url": "https://devinterrupted.com/podcast/live-from-interact-engineering-leadership-screwups/",
+        "author": "cmcclannahan",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635607282,
+        "_tags": [
+          "story",
+          "author_cmcclannahan",
+          "story_29049476"
+        ],
+        "objectID": "29049476",
+        "_highlightResult": {
+          "title": {
+            "value": "Live from Interact: Engineering Leadership Screwups",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://devinterrupted.com/podcast/live-from-interact-engineering-leadership-screwups/",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "cmcclannahan",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:18:20.000Z",
+        "title": "GlobalFoundries CEO: We’re sold out of semiconductor chip capacity through 2023",
+        "url": "https://www.cnbc.com/2021/10/30/globalfoundries-ceo-were-sold-out-of-semiconductor-chip-capacity-through-2023.html",
+        "author": "ryzvonusef",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 1,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635607100,
+        "_tags": [
+          "story",
+          "author_ryzvonusef",
+          "story_29049462"
+        ],
+        "objectID": "29049462",
+        "_highlightResult": {
+          "title": {
+            "value": "GlobalFoundries CEO: We’re sold out of semiconductor chip capacity through 2023",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://www.cnbc.com/2021/10/30/globalfoundries-ceo-were-sold-out-of-semiconductor-chip-capacity-through-2023.html",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "ryzvonusef",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:18:02.000Z",
+        "title": "FCC kicks China Telecom Americas out of US, cites Chinese government control",
+        "url": "https://arstechnica.com/tech-policy/2021/10/fcc-kicks-china-telecom-americas-out-of-us-cites-chinese-government-control/",
+        "author": "leephillips",
+        "points": 6,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635607082,
+        "_tags": [
+          "story",
+          "author_leephillips",
+          "story_29049456"
+        ],
+        "objectID": "29049456",
+        "_highlightResult": {
+          "title": {
+            "value": "FCC kicks China Telecom Americas out of US, cites Chinese government control",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://arstechnica.com/tech-policy/2021/10/fcc-kicks-china-telecom-americas-out-of-us-cites-chinese-government-control/",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "leephillips",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:17:53.000Z",
+        "title": "Ask HN: How do I find a mentor outside my company about software web programming",
+        "url": null,
+        "author": "philonoist",
+        "points": 4,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 3,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635607073,
+        "_tags": [
+          "story",
+          "author_philonoist",
+          "story_29049452",
+          "ask_hn"
+        ],
+        "objectID": "29049452",
+        "_highlightResult": {
+          "title": {
+            "value": "Ask HN: How do I find a mentor outside my company about software web programming",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "philonoist",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:15:34.000Z",
+        "title": "An Ode to the 10k RPM Western Digital (Veloci)Raptor",
+        "url": "https://louwrentius.com/an-ode-to-the-10000-rpm-western-digital-velociraptor.html",
+        "author": "louwrentius",
+        "points": 16,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 8,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635606934,
+        "_tags": [
+          "story",
+          "author_louwrentius",
+          "story_29049423",
+          "front_page"
+        ],
+        "objectID": "29049423",
+        "_highlightResult": {
+          "title": {
+            "value": "An Ode to the 10k RPM Western Digital (Veloci)Raptor",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://louwrentius.com/an-ode-to-the-10000-rpm-western-digital-velociraptor.html",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "louwrentius",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:14:29.000Z",
+        "title": "New World oversight allows players to crash the game via its chat box",
+        "url": "https://www.nme.com/news/gaming-news/new-world-oversight-allows-players-to-crash-the-game-via-its-chat-box-3083164",
+        "author": "mkl95",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635606869,
+        "_tags": [
+          "story",
+          "author_mkl95",
+          "story_29049414"
+        ],
+        "objectID": "29049414",
+        "_highlightResult": {
+          "title": {
+            "value": "New World oversight allows players to crash the game via its chat box",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://www.nme.com/news/gaming-news/new-world-oversight-allows-players-to-crash-the-game-via-its-chat-box-3083164",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "mkl95",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:12:39.000Z",
+        "title": "MacBook Pro 2021 Teardown: Easier to Repair, Harder to Score",
+        "url": "https://www.youtube.com/watch?v=CLtkukeua_c",
+        "author": "tosh",
+        "points": 2,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635606759,
+        "_tags": [
+          "story",
+          "author_tosh",
+          "story_29049394"
+        ],
+        "objectID": "29049394",
+        "_highlightResult": {
+          "title": {
+            "value": "MacBook Pro 2021 Teardown: Easier to Repair, Harder to Score",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://www.youtube.com/watch?v=CLtkukeua_c",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "tosh",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:12:23.000Z",
+        "title": "Ask HN: How far away are we from mass-deployed self-driving vehicles?",
+        "url": null,
+        "author": "hidden-spyder",
+        "points": 3,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635606743,
+        "_tags": [
+          "story",
+          "author_hidden-spyder",
+          "story_29049389",
+          "ask_hn"
+        ],
+        "objectID": "29049389",
+        "_highlightResult": {
+          "title": {
+            "value": "Ask HN: How far away are we from mass-deployed self-driving vehicles?",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "hidden-spyder",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:08:32.000Z",
+        "title": "Not spooked by Halloween ghost stories? You may have aphantasia",
+        "url": "https://theconversation.com/not-spooked-by-halloween-ghost-stories-you-may-have-aphantasia-170712",
+        "author": "daverol",
+        "points": 4,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 2,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635606512,
+        "_tags": [
+          "story",
+          "author_daverol",
+          "story_29049356"
+        ],
+        "objectID": "29049356",
+        "_highlightResult": {
+          "title": {
+            "value": "Not spooked by Halloween ghost stories? You may have aphantasia",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://theconversation.com/not-spooked-by-halloween-ghost-stories-you-may-have-aphantasia-170712",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "daverol",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:08:21.000Z",
+        "title": "How Self-driving vehicles will change the world",
+        "url": "https://geoffnesnow.medium.com/73-mind-blowing-implications-of-a-driverless-future-58d23d1f338d",
+        "author": "hidden-spyder",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 1,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635606501,
+        "_tags": [
+          "story",
+          "author_hidden-spyder",
+          "story_29049354"
+        ],
+        "objectID": "29049354",
+        "_highlightResult": {
+          "title": {
+            "value": "How Self-driving vehicles will change the world",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://geoffnesnow.medium.com/73-mind-blowing-implications-of-a-driverless-future-58d23d1f338d",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "hidden-spyder",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:08:06.000Z",
+        "title": "Google DNS at 010.010.010.010",
+        "url": "https://dns.google/",
+        "author": "boramalper",
+        "points": 3,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 1,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635606486,
+        "_tags": [
+          "story",
+          "author_boramalper",
+          "story_29049350"
+        ],
+        "objectID": "29049350",
+        "_highlightResult": {
+          "title": {
+            "value": "Google DNS at 010.010.010.010",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://dns.google/",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "boramalper",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:05:59.000Z",
+        "title": "Data Science Jobs at Stripe",
+        "url": "https://ai-jobs.net/jobs-at-stripe/",
+        "author": "pat-jay",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635606359,
+        "_tags": [
+          "story",
+          "author_pat-jay",
+          "story_29049336"
+        ],
+        "objectID": "29049336",
+        "_highlightResult": {
+          "title": {
+            "value": "Data Science Jobs at Stripe",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://ai-jobs.net/jobs-at-stripe/",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "pat-jay",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:05:55.000Z",
+        "title": "Show HN: Open-source React and Node.js SaaS boilerplate with stripe subscription",
+        "url": "https://www.saasstarterkit.com/",
+        "author": "iqbal125",
+        "points": 2,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 1,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635606355,
+        "_tags": [
+          "story",
+          "author_iqbal125",
+          "story_29049334",
+          "show_hn"
+        ],
+        "objectID": "29049334",
+        "_highlightResult": {
+          "title": {
+            "value": "Show HN: Open-source React and Node.js SaaS boilerplate with stripe subscription",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://www.saasstarterkit.com/",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "iqbal125",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:04:24.000Z",
+        "title": "Ask HN: What is the default password hash algorithm for Wordpress?",
+        "url": null,
+        "author": "mooreds",
+        "points": 1,
+        "story_text": "Does anyone have an authoritative source for the WordPress password hashing?<p>https:&#x2F;&#x2F;developer.wordpress.org&#x2F;reference&#x2F;functions&#x2F;wp_hash_password&#x2F; references https:&#x2F;&#x2F;www.openwall.com&#x2F;phpass&#x2F; which in turn references https:&#x2F;&#x2F;www.php.net&#x2F;manual&#x2F;en&#x2F;function.password-hash.php but is not clear which supported algo is default.<p>SO has a couple of q&amp;as but nothing authoritative.",
+        "comment_text": null,
+        "num_comments": 1,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635606264,
+        "_tags": [
+          "story",
+          "author_mooreds",
+          "story_29049322",
+          "ask_hn"
+        ],
+        "objectID": "29049322",
+        "_highlightResult": {
+          "title": {
+            "value": "Ask HN: What is the default password hash algorithm for Wordpress?",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "mooreds",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "story_text": {
+            "value": "Does anyone have an authoritative source for the WordPress password hashing?<p>https://developer.wordpress.org/reference/functions/wp_hash_password/ references https://www.openwall.com/phpass/ which in turn references https://www.php.net/manual/en/function.password-hash.php but is not clear which supported algo is default.<p>SO has a couple of q&amp;as but nothing authoritative.",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2021-10-30T15:03:13.000Z",
+        "title": "Raspberry Pi 4 achieves Vulkan 1.1 conformance, gets 60% GPU performance boost",
+        "url": "https://www.cnx-software.com/2021/10/27/raspberry-pi-4-achieves-vulkan-1-1-conformance-gets-up-to-60-gpu-performance-boost/",
+        "author": "rcarmo",
+        "points": 22,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 1,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1635606193,
+        "_tags": [
+          "story",
+          "author_rcarmo",
+          "story_29049314",
+          "front_page"
+        ],
+        "objectID": "29049314",
+        "_highlightResult": {
+          "title": {
+            "value": "Raspberry Pi 4 achieves Vulkan 1.1 conformance, gets 60% GPU performance boost",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "url": {
+            "value": "https://www.cnx-software.com/2021/10/27/raspberry-pi-4-achieves-vulkan-1-1-conformance-gets-up-to-60-gpu-performance-boost/",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          },
+          "author": {
+            "value": "rcarmo",
+            "matchLevel": "none",
+            "matchedWords": [
+              
+            ]
+          }
+        }
+      }
+    ],
+    "nbHits": 1939326,
+    "page": 1,
+    "nbPages": 50,
+    "hitsPerPage": 20,
+    "exhaustiveNbHits": false,
+    "exhaustiveTypo": true,
+    "query": "",
+    "params": "advancedSyntax=true&analytics=true&analyticsTags=backend&page=1&tags=story",
+    "renderingContent": {
+      
+    },
+    "processingTimeMS": 1
+  }
